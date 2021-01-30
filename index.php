@@ -8,7 +8,8 @@
 <body>
   <?php
       print"Bienvenidos a mi primer pagina web<br>";
-      print "Hola mundo";
+      print "Hola mundo<br>";
+      print "This is very funny!";
 
    ?>
 </body>
