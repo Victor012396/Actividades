@@ -7,7 +7,7 @@
   <?php
   $nombre="Victor Velasco";
   $edad=18;
-  print $nombre;
+  print "El nombre del usuario es:" . $nombre;
 
   ?>
 </body>
