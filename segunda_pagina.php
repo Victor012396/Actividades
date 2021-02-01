@@ -2,8 +2,13 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>
+<title>Segunda pagina</title>
+<body>
+  <?php
   $nombre="Victor Velasco";
   $edad=18;
   print $nombre;
-</title>
+
+  ?>
+</body>
+</html>
