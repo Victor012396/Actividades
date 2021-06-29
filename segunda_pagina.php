@@ -7,7 +7,7 @@
   <?php
     $nombre="Victor Velasco";
     $edad=18;
-    print "El nombre del usuario es: $nombre<br>";
+    print "El nombre del usuario master es: $nombre<br>";
     echo $nombre,$edad;
     echo "<br>Este es el primer mensaje<br>";
     echo "Este es el segundo mensaje<br>";
